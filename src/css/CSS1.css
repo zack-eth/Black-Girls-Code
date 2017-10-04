@@ -1,0 +1,47 @@
+.kip {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.tutorpage_details {
+    font-size: 85%;
+}
+
+.location_page {
+    
+}
+
+.notifications_button {
+    text-align: right;
+}
+
+.location_image {
+    display: block;
+    margin: 0 auto;
+}
+
+.location_zipcode {
+    text-align: center;
+    font-size: 200%;
+}
+
+.category {
+    height: 150px;
+    border-radius: 20px;
+}
+
+.header {
+    border-radius: 0px;
+    width: 100%;
+}
+
+.kip_button {
+    border-radius: 20px;
+}
+
+.detailtutor_header {
+    text-decoration: underline;
+}
+
+.detailtutor_body {
+    line-height: 100%;
+}
