@@ -1,6 +1,6 @@
 # BlackGirlsCode
 
-![Photo](https://photos-5.dropbox.com/t/2/AAC7cRYSR0kchYpf7A0QAJCQ2s6Xk3_t0eTrOHugHcZcgQ/12/2532479/png/32x32/3/1506499200/0/2/photo_100.png/ENLj-QEY6vXLQCACKAI/jzR6bJIlRL_yd_HG60l73g3VRhA9N-ZfpNRbAPt_BZg?dl=0&size=1024x768&size_mode=3 "photo")
+![Photo](https://www.dropbox.com/s/0pi5ccfm9tdz980/photo_100.png?raw=1)
 
 [Live Presentation](https://www.dropbox.com/s/n20cvt6siyrhc4h/presentation.mov?dl=0)
 
