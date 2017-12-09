@@ -1,4 +1,4 @@
-<img align="right" hspace="10" src="https://www.dropbox.com/s/0pi5ccfm9tdz980/photo_100.png?raw=1">
+<img align="right" hspace="50" src="https://www.dropbox.com/s/0pi5ccfm9tdz980/photo_100.png?raw=1">
 
 <div>
   <p align="center">
