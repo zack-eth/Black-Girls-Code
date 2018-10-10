@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-    <br/><br/><br/><br/>
+    <br/><br/>
     <a href="http://zskolnik.com/hackathon.mov">Hackathon</a><br/><br/><br/>
     <a href="http://zskolnik.com/blockchain.m4v">Blockchain Workshop</a><br/><br/><br/>
     <img hspace="50" height="400" src="https://www.dropbox.com/s/0pi5ccfm9tdz980/photo_100.png?raw=1"><br/><br/>
