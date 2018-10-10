@@ -3,8 +3,8 @@
 <div>
   <p align="center">
     <br/><br/><br/><br/>
-    <a href="http://zskolnik.com/presentation.mov">Live Presentation</a><br/><br/><br/>
-    <a href="http://zskolnik.com/kIP%20APP-%20Presentation.key">Presentation Slides</a><br/><br/><br/>
+    <a href="http://zskolnik.com/hackathon.mov">Hackathon</a><br/><br/><br/>
+    <a href="http://zskolnik.com/blockchain.m4v">Blockchain Workshop</a><br/><br/><br/>
     <a href="https://twitter.com/BlackGirlsCode/status/911416013501038593">Twitter</a>
   </p>
 </div>
